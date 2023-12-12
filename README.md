@@ -1,5 +1,5 @@
 # WIGGDR
-# Dependencies
+## Dependencies
 * python == 3.6.12
 * pytorch == 1.10.2
 * pytorch-lightning==1.5.10
@@ -7,9 +7,9 @@
 * labml-helpers == 0.4.89
 * labml-nn == 0.4.133
 * sklearn
-# Datasets
+## Datasets
 * Fdataset
 * Cdataset
 * LRSSL
-# Usage
+## Usage
 * python demo.py
