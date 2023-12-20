@@ -1,4 +1,4 @@
-# WIGGDR
+# WIGRL
 ## Dependencies
 * python == 3.6.12
 * pytorch == 1.10.2
